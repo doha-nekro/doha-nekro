@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Hi%20I'm%20Doha&fontSize=42&fontAlignY=35&desc=AI%20Engineer%20•%20Data%20Science%20•%20IoT&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=Hi%20I'm%20Doha&fontSize=42&fontAlignY=35&desc=AI%20Engineer%20•%20Data%20Scientist%20•%20IoT&descAlignY=55"/>
 
 <h3 align="center">
 Exploring Intelligence Through Code, Data, and Curiosity
